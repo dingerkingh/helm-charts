@@ -75,6 +75,8 @@ session: {}
 
 extraContainers: []
 
+extraInitContainers: []
+
 livenessProbe:
   path: /api/health
   initialDelaySeconds: 120
