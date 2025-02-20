@@ -295,7 +295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0qARm56Fc1gY_XAVN0_0-7" value="Chino" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-724.5" y="828" width="50" height="40" as="geometry" />
+          <mxGeometry x="-730.5" y="828" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qARm56Fc1gY_XAVN0_0-12" value="Lettuce&#xa;Production" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-558.1199999999999" y="828" width="95.25" height="40" as="geometry" />
@@ -315,7 +315,7 @@
           <mxGeometry x="-1250" y="711" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0qARm56Fc1gY_XAVN0_0-26" value="Crew 21&#xa;Crew 22" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-1103.5" y="793" width="106" height="110" as="geometry" />
+          <mxGeometry x="-1103.5" y="785" width="106" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0qARm56Fc1gY_XAVN0_0-28" value="Crew 23&#xa;Crew 24" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-433.5" y="786" width="106" height="110" as="geometry" />
