@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kjqUYPn-NtSr5DM89MB0-87" value="Emily Smith" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="250" y="170" width="190" height="60" as="geometry" />
+          <mxGeometry x="130" y="100" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjqUYPn-NtSr5DM89MB0-89" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#23445D;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="kjqUYPn-NtSr5DM89MB0-88" target="kjqUYPn-NtSr5DM89MB0-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kjqUYPn-NtSr5DM89MB0-88" value="Zach Smith" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="170" width="200" height="60" as="geometry" />
+          <mxGeometry x="-160" y="100" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjqUYPn-NtSr5DM89MB0-175" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="kjqUYPn-NtSr5DM89MB0-106" target="kjqUYPn-NtSr5DM89MB0-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
